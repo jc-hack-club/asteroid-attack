@@ -1,0 +1,2227 @@
+fileFormatVersion: 2
+guid: 65f4c0319dd92734da0a9ef37713a40f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4957886915423375822
+    second: ship explosion sprites cleaned_0
+  - first:
+      213: 7430037459092049859
+    second: ship explosion sprites cleaned_1
+  - first:
+      213: -6914613549643217264
+    second: ship explosion sprites cleaned_2
+  - first:
+      213: 2934230694113270559
+    second: ship explosion sprites cleaned_3
+  - first:
+      213: -4905324372313493509
+    second: ship explosion sprites cleaned_4
+  - first:
+      213: -950574371639232864
+    second: ship explosion sprites cleaned_5
+  - first:
+      213: 8694184094725150806
+    second: ship explosion sprites cleaned_6
+  - first:
+      213: -5593372340608583041
+    second: ship explosion sprites cleaned_7
+  - first:
+      213: 6491894251189387015
+    second: ship explosion sprites cleaned_8
+  - first:
+      213: -5625569972788232615
+    second: ship explosion sprites cleaned_9
+  - first:
+      213: 8022541837742476688
+    second: ship explosion sprites cleaned_10
+  - first:
+      213: -2446936507726250261
+    second: ship explosion sprites cleaned_11
+  - first:
+      213: 3594163801555890978
+    second: ship explosion sprites cleaned_12
+  - first:
+      213: 6561346219955317591
+    second: ship explosion sprites cleaned_13
+  - first:
+      213: -7882829102132104185
+    second: ship explosion sprites cleaned_14
+  - first:
+      213: -8881778839086862157
+    second: ship explosion sprites cleaned_15
+  - first:
+      213: 1036852623098903093
+    second: ship explosion sprites cleaned_16
+  - first:
+      213: 940188428729534199
+    second: ship explosion sprites cleaned_17
+  - first:
+      213: -1428230138433909580
+    second: ship explosion sprites cleaned_18
+  - first:
+      213: 1603342370072153202
+    second: ship explosion sprites cleaned_19
+  - first:
+      213: 8752686826074106451
+    second: ship explosion sprites cleaned_20
+  - first:
+      213: 295340110298884275
+    second: ship explosion sprites cleaned_21
+  - first:
+      213: -2800858740709295866
+    second: ship explosion sprites cleaned_22
+  - first:
+      213: 4418011833195035227
+    second: ship explosion sprites cleaned_23
+  - first:
+      213: -5836266736537331060
+    second: ship explosion sprites cleaned_24
+  - first:
+      213: -4748146257792140560
+    second: ship explosion sprites cleaned_25
+  - first:
+      213: -3488110579249936296
+    second: ship explosion sprites cleaned_26
+  - first:
+      213: -1761962423698205909
+    second: ship explosion sprites cleaned_27
+  - first:
+      213: -2632819446903070937
+    second: ship explosion sprites cleaned_28
+  - first:
+      213: 1560871081084758715
+    second: ship explosion sprites cleaned_29
+  - first:
+      213: 6177932578420435219
+    second: ship explosion sprites cleaned_30
+  - first:
+      213: -8526478855451576826
+    second: ship explosion sprites cleaned_31
+  - first:
+      213: -4800665247736215510
+    second: ship explosion sprites cleaned_32
+  - first:
+      213: -8262293345553645240
+    second: ship explosion sprites cleaned_33
+  - first:
+      213: 9098317500806857416
+    second: ship explosion sprites cleaned_34
+  - first:
+      213: 1619520312410034572
+    second: ship explosion sprites cleaned_35
+  - first:
+      213: 4467371428124374195
+    second: ship explosion sprites cleaned_36
+  - first:
+      213: -1089060667446197166
+    second: ship explosion sprites cleaned_37
+  - first:
+      213: 2476354741047950733
+    second: ship explosion sprites cleaned_38
+  - first:
+      213: -1444871391146533300
+    second: ship explosion sprites cleaned_39
+  - first:
+      213: 1702534174045380705
+    second: ship explosion sprites cleaned_40
+  - first:
+      213: 4914740480812796629
+    second: ship explosion sprites cleaned_41
+  - first:
+      213: -5156214728413152612
+    second: ship explosion sprites cleaned_42
+  - first:
+      213: -8781807196271078444
+    second: ship explosion sprites cleaned_43
+  - first:
+      213: -2192624184238166513
+    second: ship explosion sprites cleaned_44
+  - first:
+      213: 4727144634351832653
+    second: ship explosion sprites cleaned_45
+  - first:
+      213: 5511949344673824723
+    second: ship explosion sprites cleaned_46
+  - first:
+      213: -7548354886988894991
+    second: ship explosion sprites cleaned_47
+  - first:
+      213: 3712608523813889110
+    second: ship explosion sprites cleaned_48
+  - first:
+      213: 3548535862430814130
+    second: ship explosion sprites cleaned_49
+  - first:
+      213: -1613174086145475284
+    second: ship explosion sprites cleaned_50
+  - first:
+      213: -1442163149890591695
+    second: ship explosion sprites cleaned_51
+  - first:
+      213: -6231491472056307237
+    second: ship explosion sprites cleaned_52
+  - first:
+      213: 4486472713924539712
+    second: ship explosion sprites cleaned_53
+  - first:
+      213: -5390749181026078228
+    second: ship explosion sprites cleaned_54
+  - first:
+      213: 2583251285225423593
+    second: ship explosion sprites cleaned_55
+  - first:
+      213: 2957480019300934783
+    second: ship explosion sprites cleaned_56
+  - first:
+      213: 7974642280898646039
+    second: ship explosion sprites cleaned_57
+  - first:
+      213: 516446364358637404
+    second: ship explosion sprites cleaned_58
+  - first:
+      213: 6893934326435259186
+    second: ship explosion sprites cleaned_59
+  - first:
+      213: 1534373315380827034
+    second: ship explosion sprites cleaned_60
+  - first:
+      213: 7168851486849782074
+    second: ship explosion sprites cleaned_61
+  - first:
+      213: 6646452795239682925
+    second: ship explosion sprites cleaned_62
+  - first:
+      213: 1083863275857909226
+    second: ship explosion sprites cleaned_63
+  - first:
+      213: -7672465030801434839
+    second: ship explosion sprites cleaned_64
+  - first:
+      213: 592720388882621130
+    second: ship explosion sprites cleaned_65
+  - first:
+      213: 2626866838906303865
+    second: ship explosion sprites cleaned_66
+  - first:
+      213: 3290146537247992446
+    second: ship explosion sprites cleaned_67
+  - first:
+      213: 6763454626806307563
+    second: ship explosion sprites cleaned_68
+  - first:
+      213: 4707262608028106997
+    second: ship explosion sprites cleaned_69
+  - first:
+      213: -5846845914519444402
+    second: ship explosion sprites cleaned_70
+  - first:
+      213: -8184558145507251504
+    second: ship explosion sprites cleaned_71
+  - first:
+      213: -8289486279073221676
+    second: ship explosion sprites cleaned_72
+  - first:
+      213: 840971790586788265
+    second: ship explosion sprites cleaned_73
+  - first:
+      213: 4756346237183815186
+    second: ship explosion sprites cleaned_74
+  - first:
+      213: 8062526378618720414
+    second: ship explosion sprites cleaned_75
+  - first:
+      213: 8892173494706823384
+    second: ship explosion sprites cleaned_76
+  - first:
+      213: 5644790304862313353
+    second: ship explosion sprites cleaned_77
+  - first:
+      213: -1947988285736691514
+    second: ship explosion sprites cleaned_78
+  - first:
+      213: 1797756401635731743
+    second: ship explosion sprites cleaned_79
+  - first:
+      213: 1570628256328686029
+    second: ship explosion sprites cleaned_80
+  - first:
+      213: -5321004279470651136
+    second: ship explosion sprites cleaned_81
+  - first:
+      213: 6949304297282677487
+    second: ship explosion sprites cleaned_82
+  - first:
+      213: 5319140339365849320
+    second: ship explosion sprites cleaned_83
+  - first:
+      213: 8669851967786854690
+    second: ship explosion sprites cleaned_84
+  - first:
+      213: 8156387316310146565
+    second: ship explosion sprites cleaned_85
+  - first:
+      213: -132565765036200999
+    second: ship explosion sprites cleaned_86
+  - first:
+      213: -4457020771289095267
+    second: ship explosion sprites_0
+  - first:
+      213: 5062081202353627826
+    second: ship explosion sprites_1
+  - first:
+      213: 1312743215090885433
+    second: ship explosion sprites_2
+  - first:
+      213: 6781363165771836601
+    second: ship explosion sprites_3
+  - first:
+      213: 843948966772799607
+    second: ship explosion sprites_4
+  - first:
+      213: 2035334454830350188
+    second: ship explosion sprites_5
+  - first:
+      213: -8289113178434587824
+    second: ship explosion sprites_6
+  - first:
+      213: -5055195208786078129
+    second: ship explosion sprites_7
+  - first:
+      213: -8838992976774814563
+    second: ship explosion sprites_8
+  - first:
+      213: 3265934351796783394
+    second: ship explosion sprites_9
+  - first:
+      213: -7064427348575419825
+    second: ship explosion sprites_10
+  - first:
+      213: 1058291210920944936
+    second: ship explosion sprites_11
+  - first:
+      213: -7902436048975762762
+    second: ship explosion sprites_12
+  - first:
+      213: -5329210186666892419
+    second: ship explosion sprites_13
+  - first:
+      213: -2174005992396017353
+    second: ship explosion sprites_14
+  - first:
+      213: 7534365964379429034
+    second: ship explosion sprites_15
+  - first:
+      213: 5023777196702004593
+    second: ship explosion sprites_16
+  - first:
+      213: 3884841640867067736
+    second: ship explosion sprites_17
+  - first:
+      213: -7838044545655974172
+    second: ship explosion sprites_18
+  - first:
+      213: -6075478866028286611
+    second: ship explosion sprites_19
+  - first:
+      213: -5210801892751637342
+    second: ship explosion sprites_20
+  - first:
+      213: 1102135495495432567
+    second: ship explosion sprites_21
+  - first:
+      213: 7162962804114235960
+    second: ship explosion sprites_22
+  - first:
+      213: 2483912391936116805
+    second: ship explosion sprites_23
+  - first:
+      213: 5898882879170396756
+    second: ship explosion sprites_24
+  - first:
+      213: -9133722681143557074
+    second: ship explosion sprites_25
+  - first:
+      213: -7085320284634214272
+    second: ship explosion sprites_26
+  - first:
+      213: 5590311699772628956
+    second: ship explosion sprites_27
+  - first:
+      213: 4982624968314568213
+    second: ship explosion sprites_28
+  - first:
+      213: -3883156706940596742
+    second: ship explosion sprites_29
+  - first:
+      213: -1059762359737165093
+    second: ship explosion sprites_30
+  - first:
+      213: 8213917479487248734
+    second: ship explosion sprites_31
+  - first:
+      213: 9073078580970952278
+    second: ship explosion sprites_32
+  - first:
+      213: -4370467212003596391
+    second: ship explosion sprites_33
+  - first:
+      213: 6574995042114834564
+    second: ship explosion sprites_34
+  - first:
+      213: 4121713025776368793
+    second: ship explosion sprites_35
+  - first:
+      213: -8416593284244301230
+    second: ship explosion sprites_36
+  - first:
+      213: 7540442553030993243
+    second: ship explosion sprites_37
+  - first:
+      213: -7982720260563948592
+    second: ship explosion sprites_38
+  - first:
+      213: 8506561055963359889
+    second: ship explosion sprites_39
+  - first:
+      213: -1994817926901642360
+    second: ship explosion sprites_40
+  - first:
+      213: -7807144438914000564
+    second: ship explosion sprites_41
+  - first:
+      213: 5037589337100515449
+    second: ship explosion sprites_42
+  - first:
+      213: -4527043312714417074
+    second: ship explosion sprites_43
+  - first:
+      213: -8668418215846858649
+    second: ship explosion sprites_44
+  - first:
+      213: -1933289806135212281
+    second: ship explosion sprites_45
+  - first:
+      213: 468505863298378064
+    second: ship explosion sprites_46
+  - first:
+      213: -8887396834801687887
+    second: ship explosion sprites_47
+  - first:
+      213: -8421419266761850316
+    second: ship explosion sprites_48
+  - first:
+      213: -8891422492725857234
+    second: ship explosion sprites_49
+  - first:
+      213: -6698933675626562786
+    second: ship explosion sprites_50
+  - first:
+      213: -1304982523101845511
+    second: ship explosion sprites_51
+  - first:
+      213: 7080395666799225278
+    second: ship explosion sprites_52
+  - first:
+      213: 3220508993940029655
+    second: ship explosion sprites_53
+  - first:
+      213: -6894423505290443110
+    second: ship explosion sprites_54
+  - first:
+      213: 7967529452435237596
+    second: ship explosion sprites_55
+  - first:
+      213: -993361142506444890
+    second: ship explosion sprites_56
+  - first:
+      213: 6424161183006377181
+    second: ship explosion sprites_57
+  - first:
+      213: -8818789220163696448
+    second: ship explosion sprites_58
+  - first:
+      213: 309839609395883142
+    second: ship explosion sprites_59
+  - first:
+      213: 2747798577865250667
+    second: ship explosion sprites_60
+  - first:
+      213: -8569624117008344739
+    second: ship explosion sprites_61
+  - first:
+      213: 8557009087484095581
+    second: ship explosion sprites_62
+  - first:
+      213: -7427695489924822363
+    second: ship explosion sprites_63
+  - first:
+      213: -1879237504962841551
+    second: ship explosion sprites_64
+  - first:
+      213: -3692445987406925640
+    second: ship explosion sprites_65
+  - first:
+      213: -4714962211026362713
+    second: ship explosion sprites_66
+  - first:
+      213: -4235398637563073768
+    second: ship explosion sprites_67
+  - first:
+      213: 9095578763434766678
+    second: ship explosion sprites_68
+  - first:
+      213: 3810808120636359881
+    second: ship explosion sprites_69
+  - first:
+      213: -8619941540151665236
+    second: ship explosion sprites_70
+  - first:
+      213: 2115429519840411923
+    second: ship explosion sprites_71
+  - first:
+      213: -3828496155176562719
+    second: ship explosion sprites_72
+  - first:
+      213: 6087104726066279995
+    second: ship explosion sprites_73
+  - first:
+      213: 5188803033523946888
+    second: ship explosion sprites_74
+  - first:
+      213: -7732300688756436023
+    second: ship explosion sprites_75
+  - first:
+      213: 5100683516748125419
+    second: ship explosion sprites_76
+  - first:
+      213: -7525439964685553132
+    second: ship explosion sprites_77
+  - first:
+      213: -799551622690470579
+    second: ship explosion sprites_78
+  - first:
+      213: 2372134892705151119
+    second: ship explosion sprites_79
+  - first:
+      213: -5532189355483638697
+    second: ship explosion sprites_80
+  - first:
+      213: 774301593662937613
+    second: ship explosion sprites_81
+  - first:
+      213: -8401373710047903990
+    second: ship explosion sprites_82
+  - first:
+      213: 4973343601995786071
+    second: ship explosion sprites_83
+  - first:
+      213: -8959115712952354550
+    second: ship explosion sprites_84
+  - first:
+      213: 1616801649119009646
+    second: ship explosion sprites_85
+  - first:
+      213: -4758030732179968750
+    second: ship explosion sprites_86
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ship explosion sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2c189d08fc37242814d15deb60a3c9
+      internalID: -4457020771289095267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b39278592d9bf4a9c4e0a4376fcf3d
+      internalID: 5062081202353627826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195398b671e3f7f49801ed9f04c24cb0
+      internalID: 1312743215090885433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdbfbf96e5cd02429654f805f07c07b
+      internalID: 6781363165771836601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f19f1839e748f4fa9b697268846bf3
+      internalID: 843948966772799607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74a5039609c4b46bdc7dada4f8c0ca
+      internalID: 2035334454830350188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09505196c2ac42249a6e51d6c822f98c
+      internalID: -8289113178434587824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf515df7464764e8ca4439fe6cb76f
+      internalID: -5055195208786078129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d45794e8af9848901fdb728d5afa1
+      internalID: -8838992976774814563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e781a4e14fbc8243a1d3832a84e997d
+      internalID: 3265934351796783394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7463bed4d977efd428a004d13c47b4a9
+      internalID: -7064427348575419825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed2828fde542194c8d5fe9ed1cbd289
+      internalID: 1058291210920944936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7152d0aee61d1274292aa60e9a05c5e4
+      internalID: -7902436048975762762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159d901296ea91439f1838ea1a8a990
+      internalID: -5329210186666892419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdae784868ee9742bce7b3e14c45662
+      internalID: -2174005992396017353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9fd583345920c49ac468a633bb5432
+      internalID: 7534365964379429034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2564538da982c384da976531401ba1ef
+      internalID: 5023777196702004593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e741bc6efada4b84e6136745ecfbc
+      internalID: 3884841640867067736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4357e3a45317b34e878b37e382072af
+      internalID: -7838044545655974172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c610b100403e7348a4e4f374b621a41
+      internalID: -6075478866028286611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c472a2e84474d340a80746f24f39958
+      internalID: -5210801892751637342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a04aee443b9aa4ca45bc804bf9df29
+      internalID: 1102135495495432567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b88590b242934498f18e2e0314791a
+      internalID: 7162962804114235960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cbe4d20f0caed46bb78295bb6617d7
+      internalID: 2483912391936116805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79733811132c5c142bcd2bd5ecd2f57d
+      internalID: 5898882879170396756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f3a00705ba8b746946a578e5205c09
+      internalID: -9133722681143557074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fafd837bb61f43b77274569a7d721
+      internalID: -7085320284634214272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db45959f8f9c9d4aa92399acaea2915
+      internalID: 5590311699772628956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5878c601beefc39478efd78f62084582
+      internalID: 4982624968314568213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083250e1592e3cd44a25abefb87d121b
+      internalID: -3883156706940596742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847ca37da281d74a8ee7f9c6e2da15e
+      internalID: -1059762359737165093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bc60f2fbdc8154192786e08531cfcd
+      internalID: 8213917479487248734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d83b8c49cd2542aacd015d6ca3ea9
+      internalID: 9073078580970952278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc658bd65b28443b663d16ab75757d
+      internalID: -4370467212003596391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e9de05dc98f3c468237d6b14f25dc8
+      internalID: 6574995042114834564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0407f4d709d9844a9f83bb882fbb46
+      internalID: 4121713025776368793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e04fbdb96ae4da4d851781191cd85c3
+      internalID: -8416593284244301230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989b454491c60e4696c907a79cbe925
+      internalID: 7540442553030993243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ad524728046da489d87f0849fbca69
+      internalID: -7982720260563948592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b85f19958852c49b81a1cde9ca00c5
+      internalID: 8506561055963359889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35dd793fb1edf74aaeb02d18e0ee53e
+      internalID: -1994817926901642360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433d61c41840bf4aadaea280465f7ff
+      internalID: -7807144438914000564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dabeb41363be14e96d5da20deebd8a
+      internalID: 5037589337100515449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c01748a69bf94db11df3aab32a8b2
+      internalID: -4527043312714417074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1600547454e4048b0e0391a5b8b6a5
+      internalID: -8668418215846858649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151c76059557a544bad7e4dff8b2712
+      internalID: -1933289806135212281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645fce280577ea942bd70062c5576179
+      internalID: 468505863298378064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09010921295a07441b30d877c902b3ce
+      internalID: -8887396834801687887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8bbd53d46a9be439f42369d84d16a5
+      internalID: -8421419266761850316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71fd3bc8e97384c845b0f5050aabe1
+      internalID: -8891422492725857234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afe0b0c01a7fd44993e675d199c74aa
+      internalID: -6698933675626562786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461cd7e3d9808c144b803b1b00968bd1
+      internalID: -1304982523101845511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa714ea27b8a840884f1f23bd8b102
+      internalID: 7080395666799225278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fdec8c37d73847809f63ec90b7b90
+      internalID: 3220508993940029655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578150e9ae601040adb326d1e5eb6a0
+      internalID: -6894423505290443110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74211c272bfd6645a4acdccdeaf0ad9
+      internalID: 7967529452435237596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbff823b91cb9a1499161598d3e5b0cc
+      internalID: -993361142506444890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf950419ea89245abb81e8b1bcb6e2
+      internalID: 6424161183006377181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec7780e95794644a1f2347ec21671b
+      internalID: -8818789220163696448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f762e616d3594d945b1d8692a4e1c4db
+      internalID: 309839609395883142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cebbaf61512304f9ae068a7ae366cb
+      internalID: 2747798577865250667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702063e8cfd0ce14fa7230027cb633a7
+      internalID: -8569624117008344739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da478ed55d853488e0bfdf79802ed8
+      internalID: 8557009087484095581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422d0fc945f78b4bb84f8dc6a157d38
+      internalID: -7427695489924822363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f8abe0842cf149b76f5d6be32bfc1
+      internalID: -1879237504962841551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32238cd71636d49802049079b88bbe
+      internalID: -3692445987406925640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b1eda38ba40a9488b3cf6e1dcf2779
+      internalID: -4714962211026362713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14512d21528ad094d9602bfe3359da2b
+      internalID: -4235398637563073768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157091bc7b181404d9394369c596eefb
+      internalID: 9095578763434766678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf47782338a91ce4a9e7908cdeeba90e
+      internalID: 3810808120636359881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_70
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b44ae8ef9b764a9fe7facc8d1710f
+      internalID: -8619941540151665236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347004eae57b6324fa80caab4bf4184a
+      internalID: 2115429519840411923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a1389a2830cc428308382cf53698d
+      internalID: -3828496155176562719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ship explosion sprites_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b48c4e075af9a49b7e7ce4c67865c5
+      internalID: 6087104726066279995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2079 @@
+fileFormatVersion: 2
+guid: 7e548118b14b7404daf0c4188ceba775
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8149009158662877648
+    second: asteroid_0
+  - first:
+      213: 3933743010824487973
+    second: asteroid_1
+  - first:
+      213: -2668201035383378144
+    second: asteroid_2
+  - first:
+      213: 4381731917727284322
+    second: asteroid_3
+  - first:
+      213: -6036893756502268426
+    second: asteroid_4
+  - first:
+      213: -2554040241194618293
+    second: asteroid_5
+  - first:
+      213: -5217845429508081700
+    second: asteroid_6
+  - first:
+      213: 9095899817102033625
+    second: asteroid_7
+  - first:
+      213: 6616659981950878266
+    second: asteroid_8
+  - first:
+      213: -5164987044920113889
+    second: asteroid_9
+  - first:
+      213: -5766672288521173051
+    second: asteroid_10
+  - first:
+      213: -3342158023695100180
+    second: asteroid_11
+  - first:
+      213: 3793361494736498679
+    second: asteroid_12
+  - first:
+      213: -1340878705022048107
+    second: asteroid_13
+  - first:
+      213: 2654929984274047410
+    second: asteroid_14
+  - first:
+      213: 2827275912592990240
+    second: asteroid_15
+  - first:
+      213: -7996871812251085551
+    second: asteroid_16
+  - first:
+      213: -2501691795279777746
+    second: asteroid_17
+  - first:
+      213: -3269283116692952862
+    second: asteroid_18
+  - first:
+      213: 1488312301029771355
+    second: asteroid_19
+  - first:
+      213: -1978791874230558624
+    second: asteroid_20
+  - first:
+      213: 907903150397102929
+    second: asteroid_21
+  - first:
+      213: 4250416640137385303
+    second: asteroid_22
+  - first:
+      213: -607989823739756253
+    second: asteroid_23
+  - first:
+      213: -6692348700695161806
+    second: asteroid_24
+  - first:
+      213: 4324030119362144879
+    second: asteroid_25
+  - first:
+      213: -4216664625785938162
+    second: asteroid_26
+  - first:
+      213: -2668524036734685323
+    second: asteroid_27
+  - first:
+      213: 4216841027497160685
+    second: asteroid_28
+  - first:
+      213: -8951502410129945982
+    second: asteroid_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroid_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 403
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -37}
+        - {x: 30, y: -32}
+        - {x: 30, y: -31}
+        - {x: 33, y: -29}
+        - {x: 35, y: -24}
+        - {x: 37, y: -21}
+        - {x: 37, y: -18}
+        - {x: 38, y: -17}
+        - {x: 38, y: 12}
+        - {x: 37, y: 13}
+        - {x: 36, y: 20}
+        - {x: 30, y: 33}
+        - {x: 26, y: 36}
+        - {x: 25, y: 36}
+        - {x: 19, y: 42}
+        - {x: 14, y: 44}
+        - {x: 12, y: 44}
+        - {x: 7, y: 47}
+        - {x: -11, y: 47}
+        - {x: -13, y: 46}
+        - {x: -18, y: 44}
+        - {x: -25, y: 36}
+        - {x: -26, y: 36}
+        - {x: -30, y: 32}
+        - {x: -30, y: 31}
+        - {x: -35, y: 26}
+        - {x: -37, y: 21}
+        - {x: -38, y: 16}
+        - {x: -38, y: -13}
+        - {x: -37, y: -14}
+        - {x: -37, y: -17}
+        - {x: -36, y: -18}
+        - {x: -35, y: -24}
+        - {x: -31, y: -33}
+        - {x: -25, y: -38}
+        - {x: -24, y: -38}
+        - {x: -20, y: -42}
+        - {x: -16, y: -43}
+        - {x: -13, y: -45}
+        - {x: -11, y: -45}
+        - {x: -8, y: -47}
+        - {x: 11, y: -47}
+        - {x: 13, y: -45}
+        - {x: 17, y: -44}
+        - {x: 24, y: -37}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 366a2b0d15406554ebb9c66797d73c86
+      internalID: 8149009158662877648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 405
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: -44}
+        - {x: 22, y: -40}
+        - {x: 23, y: -40}
+        - {x: 30, y: -34}
+        - {x: 31, y: -31}
+        - {x: 35, y: -27}
+        - {x: 37, y: -22}
+        - {x: 37, y: -19}
+        - {x: 38, y: -18}
+        - {x: 38, y: 11}
+        - {x: 37, y: 12}
+        - {x: 36, y: 20}
+        - {x: 33, y: 25}
+        - {x: 32, y: 29}
+        - {x: 19, y: 42}
+        - {x: 11, y: 44}
+        - {x: 9, y: 46}
+        - {x: -10, y: 46}
+        - {x: -12, y: 45}
+        - {x: -15, y: 44}
+        - {x: -30, y: 28}
+        - {x: -30, y: 27}
+        - {x: -35, y: 22}
+        - {x: -38, y: 15}
+        - {x: -38, y: -15}
+        - {x: -36, y: -19}
+        - {x: -35, y: -25}
+        - {x: -33, y: -28}
+        - {x: -31, y: -33}
+        - {x: -27, y: -36}
+        - {x: -26, y: -36}
+        - {x: -24, y: -38}
+        - {x: -23, y: -38}
+        - {x: -19, y: -42}
+        - {x: -14, y: -44}
+        - {x: -12, y: -44}
+        - {x: -9, y: -46}
+        - {x: 15, y: -46}
+        - {x: 17, y: -44}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b49866c359a44694181b1ce1e9f7f871
+      internalID: 3933743010824487973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 407
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27.5, y: -36}
+        - {x: 29.5, y: -34}
+        - {x: 29.5, y: -33}
+        - {x: 31.5, y: -30}
+        - {x: 32.5, y: -30}
+        - {x: 35.5, y: -27}
+        - {x: 36.5, y: -23}
+        - {x: 37.5, y: -22}
+        - {x: 37.5, y: 12}
+        - {x: 36.5, y: 19}
+        - {x: 34.5, y: 22}
+        - {x: 33.5, y: 26}
+        - {x: 31.5, y: 28}
+        - {x: 31.5, y: 29}
+        - {x: 24.5, y: 37}
+        - {x: 23.5, y: 39}
+        - {x: 18.5, y: 41}
+        - {x: 16.5, y: 41}
+        - {x: 13.5, y: 43}
+        - {x: 11.5, y: 43}
+        - {x: 9.5, y: 45}
+        - {x: -10.5, y: 45}
+        - {x: -12.5, y: 44}
+        - {x: -17.5, y: 42}
+        - {x: -30.5, y: 28}
+        - {x: -32.5, y: 26}
+        - {x: -35.5, y: 19}
+        - {x: -35.5, y: 17}
+        - {x: -37.5, y: 13}
+        - {x: -37.5, y: -17}
+        - {x: -35.5, y: -20}
+        - {x: -35.5, y: -22}
+        - {x: -32.5, y: -28}
+        - {x: -32.5, y: -30}
+        - {x: -27.5, y: -35}
+        - {x: -26.5, y: -35}
+        - {x: -24.5, y: -38}
+        - {x: -21.5, y: -39}
+        - {x: -19.5, y: -39}
+        - {x: -16.5, y: -41}
+        - {x: -14.5, y: -41}
+        - {x: -13.5, y: -42}
+        - {x: -11.5, y: -42}
+        - {x: -7.5, y: -44}
+        - {x: -4.5, y: -44}
+        - {x: -2.5, y: -45}
+        - {x: 16.5, y: -45}
+        - {x: 18.5, y: -43}
+        - {x: 24.5, y: -41}
+        - {x: 27.5, y: -37}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e6f9a5c7820e80a49a1e38dec2538da3
+      internalID: -2668201035383378144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 409
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 31.5, y: -30}
+        - {x: 34.5, y: -28}
+        - {x: 37.5, y: -21}
+        - {x: 37.5, y: 12}
+        - {x: 36.5, y: 19}
+        - {x: 32.5, y: 26}
+        - {x: 32.5, y: 28}
+        - {x: 26.5, y: 34}
+        - {x: 25.5, y: 34}
+        - {x: 21.5, y: 38}
+        - {x: 12.5, y: 42}
+        - {x: 10.5, y: 42}
+        - {x: 9.5, y: 43}
+        - {x: -14.5, y: 43}
+        - {x: -17.5, y: 42}
+        - {x: -29.5, y: 31}
+        - {x: -29.5, y: 30}
+        - {x: -33.5, y: 26}
+        - {x: -35.5, y: 21}
+        - {x: -35.5, y: 19}
+        - {x: -36.5, y: 18}
+        - {x: -36.5, y: 16}
+        - {x: -37.5, y: 14}
+        - {x: -37.5, y: -17}
+        - {x: -34.5, y: -23}
+        - {x: -34.5, y: -25}
+        - {x: -32.5, y: -27}
+        - {x: -32.5, y: -29}
+        - {x: -26.5, y: -35}
+        - {x: -25.5, y: -35}
+        - {x: -23.5, y: -37}
+        - {x: -22.5, y: -37}
+        - {x: -18.5, y: -40}
+        - {x: -16.5, y: -40}
+        - {x: -12.5, y: -42}
+        - {x: -3.5, y: -43}
+        - {x: 15.5, y: -43}
+        - {x: 26.5, y: -38}
+        - {x: 26.5, y: -36}
+        - {x: 31.5, y: -31}
+      tessellationDetail: 1
+      bones: []
+      spriteID: dc23d90b729820e4fb334b5e71feeea7
+      internalID: 4381731917727284322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 410
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32.5, y: -28.5}
+        - {x: 35.5, y: -22.5}
+        - {x: 37.5, y: -19.5}
+        - {x: 37.5, y: 15.5}
+        - {x: 36.5, y: 16.5}
+        - {x: 36.5, y: 19.5}
+        - {x: 34.5, y: 22.5}
+        - {x: 34.5, y: 24.5}
+        - {x: 33.5, y: 27.5}
+        - {x: 29.5, y: 30.5}
+        - {x: 28.5, y: 30.5}
+        - {x: 26.5, y: 33.5}
+        - {x: 23.5, y: 34.5}
+        - {x: 21.5, y: 34.5}
+        - {x: 18.5, y: 36.5}
+        - {x: 16.5, y: 36.5}
+        - {x: 13.5, y: 38.5}
+        - {x: 11.5, y: 38.5}
+        - {x: 7.5, y: 40.5}
+        - {x: 4.5, y: 40.5}
+        - {x: 3.5, y: 41.5}
+        - {x: -16.5, y: 41.5}
+        - {x: -21.5, y: 39.5}
+        - {x: -29.5, y: 31.5}
+        - {x: -29.5, y: 30.5}
+        - {x: -34.5, y: 26.5}
+        - {x: -35.5, y: 23.5}
+        - {x: -35.5, y: 20.5}
+        - {x: -36.5, y: 19.5}
+        - {x: -36.5, y: 17.5}
+        - {x: -37.5, y: 15.5}
+        - {x: -37.5, y: -16.5}
+        - {x: -36.5, y: -17.5}
+        - {x: -36.5, y: -19.5}
+        - {x: -34.5, y: -22.5}
+        - {x: -33.5, y: -26.5}
+        - {x: -22.5, y: -37.5}
+        - {x: -18.5, y: -38.5}
+        - {x: -17.5, y: -39.5}
+        - {x: -15.5, y: -39.5}
+        - {x: -12.5, y: -41.5}
+        - {x: 12.5, y: -41.5}
+        - {x: 13.5, y: -40.5}
+        - {x: 15.5, y: -40.5}
+        - {x: 24.5, y: -36.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7def62d1057530d44bd8891384b229ac
+      internalID: -6036893756502268426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 411
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25.5, y: -31}
+        - {x: 26.5, y: -31}
+        - {x: 32.5, y: -25}
+        - {x: 32.5, y: -24}
+        - {x: 35.5, y: -21}
+        - {x: 35.5, y: -20}
+        - {x: 37.5, y: -18}
+        - {x: 37.5, y: 12}
+        - {x: 36.5, y: 20}
+        - {x: 34.5, y: 25}
+        - {x: 32.5, y: 27}
+        - {x: 29.5, y: 31}
+        - {x: 21.5, y: 35}
+        - {x: 18.5, y: 37}
+        - {x: 16.5, y: 37}
+        - {x: 12.5, y: 39}
+        - {x: 9.5, y: 39}
+        - {x: 8.5, y: 40}
+        - {x: -15.5, y: 40}
+        - {x: -16.5, y: 39}
+        - {x: -18.5, y: 39}
+        - {x: -21.5, y: 37}
+        - {x: -23.5, y: 37}
+        - {x: -27.5, y: 33}
+        - {x: -27.5, y: 32}
+        - {x: -35.5, y: 25}
+        - {x: -36.5, y: 22}
+        - {x: -36.5, y: 18}
+        - {x: -37.5, y: 16}
+        - {x: -37.5, y: -17}
+        - {x: -35.5, y: -19}
+        - {x: -35.5, y: -21}
+        - {x: -34.5, y: -22}
+        - {x: -33.5, y: -26}
+        - {x: -27.5, y: -32}
+        - {x: -26.5, y: -32}
+        - {x: -24.5, y: -36}
+        - {x: -15.5, y: -38}
+        - {x: -13.5, y: -40}
+        - {x: 5.5, y: -40}
+        - {x: 11.5, y: -39}
+        - {x: 24.5, y: -33}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6329fa3f62e677f42b836a1a5eee10d1
+      internalID: -2554040241194618293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 313
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19.5, y: -35.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 27.5, y: -31.5}
+        - {x: 32.5, y: -25.5}
+        - {x: 32.5, y: -24.5}
+        - {x: 37.5, y: -19.5}
+        - {x: 37.5, y: 15.5}
+        - {x: 34.5, y: 21.5}
+        - {x: 34.5, y: 23.5}
+        - {x: 25.5, y: 32.5}
+        - {x: 24.5, y: 32.5}
+        - {x: 22.5, y: 34.5}
+        - {x: 20.5, y: 34.5}
+        - {x: 12.5, y: 38.5}
+        - {x: -12.5, y: 38.5}
+        - {x: -19.5, y: 34.5}
+        - {x: -23.5, y: 33.5}
+        - {x: -26.5, y: 31.5}
+        - {x: -35.5, y: 23.5}
+        - {x: -36.5, y: 20.5}
+        - {x: -36.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -37.5, y: -17.5}
+        - {x: -36.5, y: -18.5}
+        - {x: -36.5, y: -20.5}
+        - {x: -33.5, y: -23.5}
+        - {x: -33.5, y: -25.5}
+        - {x: -29.5, y: -29.5}
+        - {x: -28.5, y: -29.5}
+        - {x: -23.5, y: -34.5}
+        - {x: -22.5, y: -34.5}
+        - {x: -20.5, y: -36.5}
+        - {x: -18.5, y: -36.5}
+        - {x: -15.5, y: -38.5}
+        - {x: 10.5, y: -38.5}
+        - {x: 11.5, y: -37.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c62a3436ccb81384fb6388952388a456
+      internalID: -5217845429508081700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 313
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 37.5, y: 16.5}
+        - {x: 35.5, y: 19.5}
+        - {x: 35.5, y: 21.5}
+        - {x: 31.5, y: 25.5}
+        - {x: 31.5, y: 26.5}
+        - {x: 23.5, y: 34.5}
+        - {x: 14.5, y: 36.5}
+        - {x: 13.5, y: 37.5}
+        - {x: -7.5, y: 37.5}
+        - {x: -12.5, y: 36.5}
+        - {x: -27.5, y: 29.5}
+        - {x: -34.5, y: 23.5}
+        - {x: -35.5, y: 19.5}
+        - {x: -37.5, y: 17.5}
+        - {x: -37.5, y: -12.5}
+        - {x: -36.5, y: -20.5}
+        - {x: -28.5, y: -29.5}
+        - {x: -25.5, y: -30.5}
+        - {x: -23.5, y: -32.5}
+        - {x: -16.5, y: -35.5}
+        - {x: -10.5, y: -36.5}
+        - {x: -9.5, y: -37.5}
+        - {x: 15.5, y: -37.5}
+        - {x: 28.5, y: -31.5}
+        - {x: 33.5, y: -26.5}
+        - {x: 37.5, y: -17.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3102e200c910ff2418543531bc87f0cd
+      internalID: 9095899817102033625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 311
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 28.5, y: -31}
+        - {x: 32.5, y: -26}
+        - {x: 32.5, y: -25}
+        - {x: 37.5, y: -19}
+        - {x: 37.5, y: 16}
+        - {x: 36.5, y: 17}
+        - {x: 36.5, y: 19}
+        - {x: 35.5, y: 20}
+        - {x: 34.5, y: 24}
+        - {x: 25.5, y: 33}
+        - {x: 24.5, y: 33}
+        - {x: 22.5, y: 35}
+        - {x: 20.5, y: 35}
+        - {x: 14.5, y: 38}
+        - {x: -11.5, y: 38}
+        - {x: -15.5, y: 36}
+        - {x: -18.5, y: 36}
+        - {x: -21.5, y: 34}
+        - {x: -24.5, y: 33}
+        - {x: -28.5, y: 28}
+        - {x: -29.5, y: 28}
+        - {x: -32.5, y: 25}
+        - {x: -32.5, y: 24}
+        - {x: -35.5, y: 22}
+        - {x: -36.5, y: 19}
+        - {x: -37.5, y: 17}
+        - {x: -37.5, y: -15}
+        - {x: -36.5, y: -16}
+        - {x: -36.5, y: -18}
+        - {x: -35.5, y: -19}
+        - {x: -34.5, y: -23}
+        - {x: -24.5, y: -33}
+        - {x: -19.5, y: -35}
+        - {x: -17.5, y: -35}
+        - {x: -16.5, y: -36}
+        - {x: -14.5, y: -36}
+        - {x: -10.5, y: -38}
+        - {x: 15.5, y: -38}
+        - {x: 18.5, y: -36}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b6e0854edf8d3c142ab8b51ead5c6a93
+      internalID: 6616659981950878266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 309
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15.5, y: -37}
+        - {x: 24.5, y: -33}
+        - {x: 26.5, y: -30}
+        - {x: 27.5, y: -30}
+        - {x: 35.5, y: -22}
+        - {x: 36.5, y: -18}
+        - {x: 37.5, y: -17}
+        - {x: 37.5, y: 18}
+        - {x: 36.5, y: 19}
+        - {x: 35.5, y: 23}
+        - {x: 26.5, y: 32}
+        - {x: 17.5, y: 36}
+        - {x: 15.5, y: 36}
+        - {x: 14.5, y: 37}
+        - {x: 12.5, y: 37}
+        - {x: 11.5, y: 38}
+        - {x: 9.5, y: 38}
+        - {x: 7.5, y: 39}
+        - {x: -17.5, y: 39}
+        - {x: -20.5, y: 37}
+        - {x: -26.5, y: 34}
+        - {x: -34.5, y: 25}
+        - {x: -35.5, y: 21}
+        - {x: -36.5, y: 20}
+        - {x: -36.5, y: 18}
+        - {x: -37.5, y: 17}
+        - {x: -37.5, y: -14}
+        - {x: -35.5, y: -17}
+        - {x: -33.5, y: -25}
+        - {x: -29.5, y: -29}
+        - {x: -28.5, y: -29}
+        - {x: -21.5, y: -36}
+        - {x: -17.5, y: -37}
+        - {x: -16.5, y: -38}
+        - {x: -13.5, y: -38}
+        - {x: -11.5, y: -39}
+        - {x: 9.5, y: -39}
+        - {x: 12.5, y: -37}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 09b3ff4cc329f664793cc2404cc18c03
+      internalID: -5164987044920113889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 308
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18.5, y: -35.5}
+        - {x: 25.5, y: -32.5}
+        - {x: 27.5, y: -30.5}
+        - {x: 30.5, y: -29.5}
+        - {x: 34.5, y: -24.5}
+        - {x: 34.5, y: -23.5}
+        - {x: 37.5, y: -19.5}
+        - {x: 37.5, y: 16.5}
+        - {x: 35.5, y: 20.5}
+        - {x: 35.5, y: 22.5}
+        - {x: 24.5, y: 34.5}
+        - {x: 23.5, y: 34.5}
+        - {x: 19.5, y: 37.5}
+        - {x: 14.5, y: 38.5}
+        - {x: 10.5, y: 40.5}
+        - {x: -15.5, y: 40.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -28.5, y: 33.5}
+        - {x: -28.5, y: 31.5}
+        - {x: -31.5, y: 28.5}
+        - {x: -31.5, y: 27.5}
+        - {x: -36.5, y: 22.5}
+        - {x: -36.5, y: 18.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -37.5, y: -14.5}
+        - {x: -36.5, y: -15.5}
+        - {x: -35.5, y: -20.5}
+        - {x: -31.5, y: -29.5}
+        - {x: -29.5, y: -29.5}
+        - {x: -19.5, y: -39.5}
+        - {x: -17.5, y: -39.5}
+        - {x: -15.5, y: -40.5}
+        - {x: 5.5, y: -40.5}
+        - {x: 6.5, y: -39.5}
+        - {x: 11.5, y: -38.5}
+        - {x: 16.5, y: -35.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7da7eb1cff15b704aa5e8572fe953c0b
+      internalID: -5766672288521173051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 305
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14.5, y: -40}
+        - {x: 21.5, y: -37}
+        - {x: 22.5, y: -35}
+        - {x: 23.5, y: -35}
+        - {x: 26.5, y: -32}
+        - {x: 27.5, y: -32}
+        - {x: 35.5, y: -24}
+        - {x: 36.5, y: -20}
+        - {x: 37.5, y: -19}
+        - {x: 37.5, y: 15}
+        - {x: 36.5, y: 22}
+        - {x: 34.5, y: 24}
+        - {x: 34.5, y: 25}
+        - {x: 32.5, y: 28}
+        - {x: 30.5, y: 32}
+        - {x: 25.5, y: 36}
+        - {x: 24.5, y: 36}
+        - {x: 18.5, y: 41}
+        - {x: 16.5, y: 41}
+        - {x: 15.5, y: 42}
+        - {x: 13.5, y: 42}
+        - {x: 11.5, y: 43}
+        - {x: -7.5, y: 43}
+        - {x: -9.5, y: 42}
+        - {x: -15.5, y: 41}
+        - {x: -24.5, y: 37}
+        - {x: -26.5, y: 35}
+        - {x: -33.5, y: 29}
+        - {x: -36.5, y: 22}
+        - {x: -37.5, y: 17}
+        - {x: -37.5, y: -12}
+        - {x: -36.5, y: -13}
+        - {x: -36.5, y: -17}
+        - {x: -32.5, y: -24}
+        - {x: -32.5, y: -26}
+        - {x: -22.5, y: -38}
+        - {x: -11.5, y: -43}
+        - {x: 4.5, y: -43}
+        - {x: 9.5, y: -42}
+        - {x: 12.5, y: -40}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ee7d2c3040126994a8491c8e7b1dd00f
+      internalID: -3342158023695100180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 203
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14.5, y: -42.5}
+        - {x: 20.5, y: -38.5}
+        - {x: 25.5, y: -36.5}
+        - {x: 32.5, y: -28.5}
+        - {x: 32.5, y: -27.5}
+        - {x: 35.5, y: -23.5}
+        - {x: 35.5, y: -21.5}
+        - {x: 37.5, y: -18.5}
+        - {x: 37.5, y: 20.5}
+        - {x: 32.5, y: 31.5}
+        - {x: 26.5, y: 36.5}
+        - {x: 25.5, y: 36.5}
+        - {x: 18.5, y: 43.5}
+        - {x: 16.5, y: 43.5}
+        - {x: 15.5, y: 44.5}
+        - {x: -5.5, y: 44.5}
+        - {x: -8.5, y: 42.5}
+        - {x: -10.5, y: 42.5}
+        - {x: -13.5, y: 40.5}
+        - {x: -15.5, y: 40.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -20.5, y: 38.5}
+        - {x: -27.5, y: 35.5}
+        - {x: -34.5, y: 27.5}
+        - {x: -35.5, y: 23.5}
+        - {x: -36.5, y: 22.5}
+        - {x: -36.5, y: 19.5}
+        - {x: -37.5, y: 17.5}
+        - {x: -37.5, y: -10.5}
+        - {x: -36.5, y: -12.5}
+        - {x: -36.5, y: -15.5}
+        - {x: -31.5, y: -26.5}
+        - {x: -21.5, y: -36.5}
+        - {x: -20.5, y: -36.5}
+        - {x: -15.5, y: -41.5}
+        - {x: -10.5, y: -43.5}
+        - {x: -5.5, y: -44.5}
+        - {x: 6.5, y: -44.5}
+        - {x: 7.5, y: -43.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 88d5556440222d14aa70931752d33e76
+      internalID: 3793361494736498679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 203
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17.5, y: -42.5}
+        - {x: 20.5, y: -40.5}
+        - {x: 25.5, y: -38.5}
+        - {x: 29.5, y: -33.5}
+        - {x: 29.5, y: -32.5}
+        - {x: 35.5, y: -24.5}
+        - {x: 36.5, y: -20.5}
+        - {x: 37.5, y: -19.5}
+        - {x: 37.5, y: 18.5}
+        - {x: 36.5, y: 19.5}
+        - {x: 36.5, y: 22.5}
+        - {x: 33.5, y: 27.5}
+        - {x: 33.5, y: 29.5}
+        - {x: 22.5, y: 41.5}
+        - {x: 13.5, y: 45.5}
+        - {x: -8.5, y: 45.5}
+        - {x: -9.5, y: 44.5}
+        - {x: -11.5, y: 44.5}
+        - {x: -20.5, y: 40.5}
+        - {x: -22.5, y: 38.5}
+        - {x: -25.5, y: 36.5}
+        - {x: -29.5, y: 34.5}
+        - {x: -29.5, y: 32.5}
+        - {x: -33.5, y: 28.5}
+        - {x: -33.5, y: 27.5}
+        - {x: -35.5, y: 25.5}
+        - {x: -35.5, y: 23.5}
+        - {x: -37.5, y: 19.5}
+        - {x: -37.5, y: -14.5}
+        - {x: -35.5, y: -17.5}
+        - {x: -33.5, y: -22.5}
+        - {x: -31.5, y: -24.5}
+        - {x: -29.5, y: -28.5}
+        - {x: -19.5, y: -37.5}
+        - {x: -18.5, y: -37.5}
+        - {x: -14.5, y: -41.5}
+        - {x: -13.5, y: -41.5}
+        - {x: -8.5, y: -45.5}
+        - {x: 12.5, y: -45.5}
+        - {x: 15.5, y: -42.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ebbb7cda71ed27744853def57cbf5172
+      internalID: -1340878705022048107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 203
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23.5, y: -40.5}
+        - {x: 31.5, y: -31.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 35.5, y: -26.5}
+        - {x: 35.5, y: -23.5}
+        - {x: 36.5, y: -22.5}
+        - {x: 37.5, y: -16.5}
+        - {x: 37.5, y: 15.5}
+        - {x: 36.5, y: 21.5}
+        - {x: 34.5, y: 24.5}
+        - {x: 34.5, y: 26.5}
+        - {x: 30.5, y: 30.5}
+        - {x: 30.5, y: 31.5}
+        - {x: 22.5, y: 39.5}
+        - {x: 21.5, y: 39.5}
+        - {x: 13.5, y: 45.5}
+        - {x: 11.5, y: 45.5}
+        - {x: 9.5, y: 46.5}
+        - {x: -7.5, y: 46.5}
+        - {x: -9.5, y: 45.5}
+        - {x: -12.5, y: 45.5}
+        - {x: -21.5, y: 41.5}
+        - {x: -27.5, y: 34.5}
+        - {x: -28.5, y: 34.5}
+        - {x: -33.5, y: 29.5}
+        - {x: -34.5, y: 25.5}
+        - {x: -35.5, y: 24.5}
+        - {x: -35.5, y: 22.5}
+        - {x: -36.5, y: 21.5}
+        - {x: -36.5, y: 19.5}
+        - {x: -37.5, y: 18.5}
+        - {x: -37.5, y: -15.5}
+        - {x: -34.5, y: -20.5}
+        - {x: -34.5, y: -22.5}
+        - {x: -31.5, y: -26.5}
+        - {x: -29.5, y: -30.5}
+        - {x: -25.5, y: -33.5}
+        - {x: -24.5, y: -33.5}
+        - {x: -14.5, y: -42.5}
+        - {x: -13.5, y: -42.5}
+        - {x: -8.5, y: -46.5}
+        - {x: 12.5, y: -46.5}
+        - {x: 15.5, y: -44.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8455ed996030efe46a6c795851ea0828
+      internalID: 2654929984274047410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 22.5, y: -38.5}
+        - {x: 23.5, y: -38.5}
+        - {x: 33.5, y: -28.5}
+        - {x: 34.5, y: -24.5}
+        - {x: 36.5, y: -22.5}
+        - {x: 37.5, y: -16.5}
+        - {x: 37.5, y: 14.5}
+        - {x: 36.5, y: 20.5}
+        - {x: 34.5, y: 25.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 31.5, y: 28.5}
+        - {x: 22.5, y: 37.5}
+        - {x: 21.5, y: 37.5}
+        - {x: 18.5, y: 40.5}
+        - {x: 17.5, y: 40.5}
+        - {x: 13.5, y: 44.5}
+        - {x: 11.5, y: 44.5}
+        - {x: 9.5, y: 46.5}
+        - {x: -11.5, y: 46.5}
+        - {x: -14.5, y: 45.5}
+        - {x: -18.5, y: 41.5}
+        - {x: -22.5, y: 40.5}
+        - {x: -31.5, y: 31.5}
+        - {x: -31.5, y: 30.5}
+        - {x: -34.5, y: 27.5}
+        - {x: -34.5, y: 25.5}
+        - {x: -36.5, y: 21.5}
+        - {x: -36.5, y: 18.5}
+        - {x: -37.5, y: 17.5}
+        - {x: -37.5, y: -16.5}
+        - {x: -36.5, y: -17.5}
+        - {x: -36.5, y: -19.5}
+        - {x: -35.5, y: -20.5}
+        - {x: -35.5, y: -22.5}
+        - {x: -33.5, y: -27.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -30.5, y: -30.5}
+        - {x: -21.5, y: -39.5}
+        - {x: -20.5, y: -39.5}
+        - {x: -15.5, y: -44.5}
+        - {x: -10.5, y: -46.5}
+        - {x: 7.5, y: -46.5}
+        - {x: 9.5, y: -45.5}
+        - {x: 12.5, y: -45.5}
+        - {x: 17.5, y: -43.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 24a2e892debf4b3479ee4e2c84b9c764
+      internalID: 2827275912592990240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_16
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 205
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18.5, y: -40}
+        - {x: 20.5, y: -38}
+        - {x: 26.5, y: -35}
+        - {x: 33.5, y: -28}
+        - {x: 35.5, y: -23}
+        - {x: 35.5, y: -21}
+        - {x: 36.5, y: -20}
+        - {x: 36.5, y: -16}
+        - {x: 37.5, y: -15}
+        - {x: 37.5, y: 13}
+        - {x: 36.5, y: 14}
+        - {x: 36.5, y: 16}
+        - {x: 34.5, y: 21}
+        - {x: 19.5, y: 36}
+        - {x: 18.5, y: 36}
+        - {x: 10.5, y: 45}
+        - {x: 7.5, y: 46}
+        - {x: -13.5, y: 46}
+        - {x: -19.5, y: 41}
+        - {x: -23.5, y: 40}
+        - {x: -27.5, y: 37}
+        - {x: -27.5, y: 36}
+        - {x: -34.5, y: 29}
+        - {x: -36.5, y: 24}
+        - {x: -37.5, y: 18}
+        - {x: -37.5, y: -19}
+        - {x: -35.5, y: -23}
+        - {x: -35.5, y: -25}
+        - {x: -34.5, y: -26}
+        - {x: -33.5, y: -30}
+        - {x: -23.5, y: -41}
+        - {x: -16.5, y: -44}
+        - {x: -13.5, y: -46}
+        - {x: 3.5, y: -46}
+        - {x: 7.5, y: -44}
+        - {x: 12.5, y: -43}
+        - {x: 15.5, y: -41}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3e6d934699538bd4a9228030dcd71e33
+      internalID: -7996871812251085551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 207
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 17.5, y: -39}
+        - {x: 20.5, y: -37}
+        - {x: 22.5, y: -37}
+        - {x: 25.5, y: -34}
+        - {x: 26.5, y: -34}
+        - {x: 33.5, y: -27}
+        - {x: 34.5, y: -23}
+        - {x: 37.5, y: -17}
+        - {x: 37.5, y: 12}
+        - {x: 35.5, y: 14}
+        - {x: 34.5, y: 18}
+        - {x: 32.5, y: 21}
+        - {x: 28.5, y: 29}
+        - {x: 23.5, y: 34}
+        - {x: 22.5, y: 36}
+        - {x: 20.5, y: 36}
+        - {x: 17.5, y: 39}
+        - {x: 16.5, y: 39}
+        - {x: 12.5, y: 43}
+        - {x: 10.5, y: 43}
+        - {x: 6.5, y: 45}
+        - {x: -6.5, y: 45}
+        - {x: -7.5, y: 44}
+        - {x: -13.5, y: 43}
+        - {x: -22.5, y: 39}
+        - {x: -35.5, y: 26}
+        - {x: -35.5, y: 24}
+        - {x: -37.5, y: 20}
+        - {x: -37.5, y: -19}
+        - {x: -36.5, y: -24}
+        - {x: -32.5, y: -33}
+        - {x: -29.5, y: -35}
+        - {x: -28.5, y: -35}
+        - {x: -20.5, y: -43}
+        - {x: -16.5, y: -44}
+        - {x: -15.5, y: -45}
+        - {x: 1.5, y: -45}
+        - {x: 5.5, y: -43}
+        - {x: 10.5, y: -42}
+        - {x: 15.5, y: -39}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 93533249e4332da45a30327dc29ea242
+      internalID: -2501691795279777746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 109
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14.5, y: -40.5}
+        - {x: 23.5, y: -36.5}
+        - {x: 25.5, y: -34.5}
+        - {x: 30.5, y: -30.5}
+        - {x: 33.5, y: -24.5}
+        - {x: 36.5, y: -20.5}
+        - {x: 37.5, y: -10.5}
+        - {x: 37.5, y: 10.5}
+        - {x: 36.5, y: 11.5}
+        - {x: 34.5, y: 19.5}
+        - {x: 32.5, y: 22.5}
+        - {x: 29.5, y: 29.5}
+        - {x: 22.5, y: 37.5}
+        - {x: 18.5, y: 38.5}
+        - {x: 13.5, y: 42.5}
+        - {x: -8.5, y: 42.5}
+        - {x: -16.5, y: 38.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -21.5, y: 36.5}
+        - {x: -29.5, y: 32.5}
+        - {x: -35.5, y: 25.5}
+        - {x: -36.5, y: 21.5}
+        - {x: -37.5, y: 20.5}
+        - {x: -37.5, y: -21.5}
+        - {x: -35.5, y: -26.5}
+        - {x: -33.5, y: -28.5}
+        - {x: -32.5, y: -31.5}
+        - {x: -29.5, y: -34.5}
+        - {x: -25.5, y: -36.5}
+        - {x: -20.5, y: -40.5}
+        - {x: -16.5, y: -41.5}
+        - {x: -15.5, y: -42.5}
+        - {x: 8.5, y: -42.5}
+        - {x: 9.5, y: -41.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5a51c1b3492dcd3489c880e6e07ea2a7
+      internalID: -3269283116692952862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19.5, y: -38}
+        - {x: 21.5, y: -36}
+        - {x: 23.5, y: -36}
+        - {x: 28.5, y: -33}
+        - {x: 30.5, y: -29}
+        - {x: 35.5, y: -22}
+        - {x: 36.5, y: -15}
+        - {x: 37.5, y: -14}
+        - {x: 37.5, y: 7}
+        - {x: 36.5, y: 8}
+        - {x: 36.5, y: 15}
+        - {x: 34.5, y: 18}
+        - {x: 34.5, y: 20}
+        - {x: 32.5, y: 23}
+        - {x: 32.5, y: 25}
+        - {x: 28.5, y: 29}
+        - {x: 28.5, y: 30}
+        - {x: 21.5, y: 38}
+        - {x: 16.5, y: 40}
+        - {x: 14.5, y: 40}
+        - {x: 13.5, y: 41}
+        - {x: -1.5, y: 41}
+        - {x: -3.5, y: 40}
+        - {x: -6.5, y: 40}
+        - {x: -7.5, y: 39}
+        - {x: -12.5, y: 38}
+        - {x: -20.5, y: 34}
+        - {x: -22.5, y: 34}
+        - {x: -24.5, y: 32}
+        - {x: -25.5, y: 32}
+        - {x: -27.5, y: 30}
+        - {x: -28.5, y: 30}
+        - {x: -33.5, y: 26}
+        - {x: -33.5, y: 25}
+        - {x: -36.5, y: 22}
+        - {x: -36.5, y: 20}
+        - {x: -37.5, y: 18}
+        - {x: -37.5, y: -21}
+        - {x: -35.5, y: -26}
+        - {x: -32.5, y: -28}
+        - {x: -32.5, y: -29}
+        - {x: -24.5, y: -37}
+        - {x: -17.5, y: -40}
+        - {x: -11.5, y: -41}
+        - {x: 14.5, y: -41}
+        - {x: 17.5, y: -38}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8aaad12fc623b43408cf2bd458273481
+      internalID: 1488312301029771355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -33.5}
+        - {x: 26, y: -31.5}
+        - {x: 26, y: -30.5}
+        - {x: 34, y: -22.5}
+        - {x: 34, y: -19.5}
+        - {x: 36, y: -18.5}
+        - {x: 37, y: -15.5}
+        - {x: 37, y: 12.5}
+        - {x: 35, y: 16.5}
+        - {x: 35, y: 19.5}
+        - {x: 31, y: 28.5}
+        - {x: 29, y: 28.5}
+        - {x: 26, y: 30.5}
+        - {x: 26, y: 31.5}
+        - {x: 21, y: 36.5}
+        - {x: 17, y: 37.5}
+        - {x: 16, y: 38.5}
+        - {x: 14, y: 38.5}
+        - {x: 13, y: 39.5}
+        - {x: -10, y: 39.5}
+        - {x: -14, y: 37.5}
+        - {x: -17, y: 37.5}
+        - {x: -26, y: 33.5}
+        - {x: -37, y: 22.5}
+        - {x: -37, y: -22.5}
+        - {x: -28, y: -32.5}
+        - {x: -19, y: -36.5}
+        - {x: -16, y: -36.5}
+        - {x: -13, y: -38.5}
+        - {x: -7, y: -39.5}
+        - {x: 14, y: -39.5}
+        - {x: 22, y: -33.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 171126bfa925c7c438867efb3da89f1b
+      internalID: -1978791874230558624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 113
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -36}
+        - {x: 20, y: -33}
+        - {x: 21, y: -33}
+        - {x: 23, y: -31}
+        - {x: 24, y: -31}
+        - {x: 35, y: -21}
+        - {x: 37, y: -16}
+        - {x: 37, y: 13}
+        - {x: 35, y: 17}
+        - {x: 34, y: 23}
+        - {x: 31, y: 27}
+        - {x: 30, y: 27}
+        - {x: 25, y: 32}
+        - {x: 24, y: 32}
+        - {x: 22, y: 34}
+        - {x: 20, y: 34}
+        - {x: 17, y: 36}
+        - {x: 14, y: 36}
+        - {x: 11, y: 38}
+        - {x: -17, y: 38}
+        - {x: -20, y: 35}
+        - {x: -24, y: 34}
+        - {x: -29, y: 32}
+        - {x: -31, y: 29}
+        - {x: -31, y: 28}
+        - {x: -35, y: 24}
+        - {x: -35, y: 23}
+        - {x: -37, y: 21}
+        - {x: -37, y: -21}
+        - {x: -36, y: -22}
+        - {x: -36, y: -24}
+        - {x: -32, y: -28}
+        - {x: -31, y: -28}
+        - {x: -23, y: -35}
+        - {x: -19, y: -36}
+        - {x: -16, y: -38}
+        - {x: 10, y: -38}
+        - {x: 11, y: -37}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8dd0d7399a87d3343b225734c24bd3b2
+      internalID: 907903150397102929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 112
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15.5, y: -35.5}
+        - {x: 18.5, y: -33.5}
+        - {x: 27.5, y: -29.5}
+        - {x: 34.5, y: -23.5}
+        - {x: 37.5, y: -16.5}
+        - {x: 37.5, y: 14.5}
+        - {x: 35.5, y: 18.5}
+        - {x: 35.5, y: 21.5}
+        - {x: 30.5, y: 27.5}
+        - {x: 29.5, y: 29.5}
+        - {x: 26.5, y: 29.5}
+        - {x: 24.5, y: 31.5}
+        - {x: 22.5, y: 31.5}
+        - {x: 19.5, y: 33.5}
+        - {x: 17.5, y: 33.5}
+        - {x: 11.5, y: 36.5}
+        - {x: 5.5, y: 37.5}
+        - {x: -17.5, y: 37.5}
+        - {x: -20.5, y: 36.5}
+        - {x: -22.5, y: 34.5}
+        - {x: -27.5, y: 32.5}
+        - {x: -36.5, y: 22.5}
+        - {x: -37.5, y: 18.5}
+        - {x: -37.5, y: -17.5}
+        - {x: -35.5, y: -20.5}
+        - {x: -35.5, y: -22.5}
+        - {x: -34.5, y: -25.5}
+        - {x: -25.5, y: -33.5}
+        - {x: -21.5, y: -34.5}
+        - {x: -16.5, y: -37.5}
+        - {x: 9.5, y: -37.5}
+        - {x: 12.5, y: -35.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c1cad5e0232910747a5e884a3d056871
+      internalID: 4250416640137385303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 110
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 26, y: -32.5}
+        - {x: 29, y: -29.5}
+        - {x: 29, y: -28.5}
+        - {x: 36, y: -22.5}
+        - {x: 37, y: -19.5}
+        - {x: 37, y: 19.5}
+        - {x: 35, y: 21.5}
+        - {x: 35, y: 22.5}
+        - {x: 27, y: 30.5}
+        - {x: 26, y: 30.5}
+        - {x: 22, y: 34.5}
+        - {x: 21, y: 34.5}
+        - {x: 19, y: 36.5}
+        - {x: 15, y: 37.5}
+        - {x: 14, y: 38.5}
+        - {x: -10, y: 38.5}
+        - {x: -14, y: 36.5}
+        - {x: -17, y: 36.5}
+        - {x: -26, y: 32.5}
+        - {x: -30, y: 28.5}
+        - {x: -32, y: 27.5}
+        - {x: -32, y: 25.5}
+        - {x: -37, y: 20.5}
+        - {x: -37, y: -14.5}
+        - {x: -36, y: -15.5}
+        - {x: -36, y: -18.5}
+        - {x: -32, y: -27.5}
+        - {x: -30, y: -27.5}
+        - {x: -28, y: -30.5}
+        - {x: -27, y: -30.5}
+        - {x: -23, y: -34.5}
+        - {x: -18, y: -35.5}
+        - {x: -12, y: -38.5}
+        - {x: 13, y: -38.5}
+        - {x: 22, y: -33.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f6a0341b8dd4a1249bd819576c3ca9d4
+      internalID: -607989823739756253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 9
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27.5, y: -33}
+        - {x: 27.5, y: -32}
+        - {x: 32.5, y: -27}
+        - {x: 32.5, y: -26}
+        - {x: 35.5, y: -23}
+        - {x: 36.5, y: -15}
+        - {x: 37.5, y: -14}
+        - {x: 37.5, y: 16}
+        - {x: 33.5, y: 21}
+        - {x: 32.5, y: 25}
+        - {x: 21.5, y: 36}
+        - {x: 13.5, y: 38}
+        - {x: 11.5, y: 40}
+        - {x: -7.5, y: 40}
+        - {x: -9.5, y: 39}
+        - {x: -15.5, y: 38}
+        - {x: -22.5, y: 34}
+        - {x: -24.5, y: 34}
+        - {x: -32.5, y: 27}
+        - {x: -32.5, y: 26}
+        - {x: -35.5, y: 23}
+        - {x: -35.5, y: 22}
+        - {x: -37.5, y: 20}
+        - {x: -37.5, y: -14}
+        - {x: -36.5, y: -15}
+        - {x: -36.5, y: -20}
+        - {x: -32.5, y: -29}
+        - {x: -30.5, y: -29}
+        - {x: -24.5, y: -35}
+        - {x: -19.5, y: -37}
+        - {x: -16.5, y: -38}
+        - {x: -14.5, y: -38}
+        - {x: -10.5, y: -40}
+        - {x: 14.5, y: -40}
+        - {x: 18.5, y: -38}
+        - {x: 20.5, y: -38}
+        - {x: 25.5, y: -36}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6ef48bbab27b6c744a5a560fdf1976d4
+      internalID: -6692348700695161806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 7
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -37.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: -29.5}
+        - {x: 33, y: -27.5}
+        - {x: 35, y: -22.5}
+        - {x: 35, y: -20.5}
+        - {x: 37, y: -17.5}
+        - {x: 37, y: -14.5}
+        - {x: 38, y: -13.5}
+        - {x: 38, y: 14.5}
+        - {x: 36, y: 17.5}
+        - {x: 36, y: 19.5}
+        - {x: 35, y: 20.5}
+        - {x: 34, y: 24.5}
+        - {x: 31, y: 27.5}
+        - {x: 31, y: 28.5}
+        - {x: 22, y: 37.5}
+        - {x: 20, y: 37.5}
+        - {x: 12, y: 41.5}
+        - {x: -14, y: 41.5}
+        - {x: -17, y: 39.5}
+        - {x: -19, y: 39.5}
+        - {x: -21, y: 37.5}
+        - {x: -23, y: 37.5}
+        - {x: -34, y: 28.5}
+        - {x: -38, y: 19.5}
+        - {x: -38, y: -6.5}
+        - {x: -37, y: -7.5}
+        - {x: -36, y: -19.5}
+        - {x: -35, y: -22.5}
+        - {x: -33, y: -27.5}
+        - {x: -28, y: -31.5}
+        - {x: -27, y: -31.5}
+        - {x: -23, y: -34.5}
+        - {x: -20, y: -34.5}
+        - {x: -14, y: -37.5}
+        - {x: -11, y: -37.5}
+        - {x: -7, y: -39.5}
+        - {x: -4, y: -39.5}
+        - {x: -1, y: -41.5}
+        - {x: 17, y: -41.5}
+        - {x: 19, y: -39.5}
+        - {x: 20, y: -39.5}
+        - {x: 22, y: -37.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6a291a7425e4de946805ca8d0f9d7961
+      internalID: 4324030119362144879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -36}
+        - {x: 24, y: -36}
+        - {x: 28, y: -32}
+        - {x: 28, y: -31}
+        - {x: 33, y: -25}
+        - {x: 33, y: -23}
+        - {x: 36, y: -17}
+        - {x: 37, y: -11}
+        - {x: 38, y: -9}
+        - {x: 38, y: 14}
+        - {x: 36, y: 18}
+        - {x: 35, y: 24}
+        - {x: 32, y: 28}
+        - {x: 30, y: 32}
+        - {x: 26, y: 36}
+        - {x: 22, y: 37}
+        - {x: 18, y: 40}
+        - {x: 16, y: 40}
+        - {x: 12, y: 42}
+        - {x: 9, y: 42}
+        - {x: 8, y: 43}
+        - {x: -16, y: 43}
+        - {x: -17, y: 42}
+        - {x: -19, y: 42}
+        - {x: -22, y: 40}
+        - {x: -24, y: 40}
+        - {x: -28, y: 36}
+        - {x: -28, y: 35}
+        - {x: -33, y: 30}
+        - {x: -35, y: 29}
+        - {x: -36, y: 24}
+        - {x: -37, y: 23}
+        - {x: -37, y: 21}
+        - {x: -38, y: 20}
+        - {x: -38, y: -8}
+        - {x: -37, y: -9}
+        - {x: -36, y: -19}
+        - {x: -35, y: -22}
+        - {x: -31, y: -31}
+        - {x: -29, y: -31}
+        - {x: -21, y: -37}
+        - {x: -19, y: -38}
+        - {x: -16, y: -40}
+        - {x: -14, y: -40}
+        - {x: -8, y: -43}
+        - {x: 15, y: -43}
+        - {x: 18, y: -42}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c747e671b02ecca49a5e6cfdb6cf043a
+      internalID: -4216664625785938162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 30, y: -28}
+        - {x: 31, y: -25}
+        - {x: 33, y: -23}
+        - {x: 38, y: -12}
+        - {x: 38, y: 14}
+        - {x: 37, y: 15}
+        - {x: 36, y: 21}
+        - {x: 33, y: 26}
+        - {x: 32, y: 30}
+        - {x: 28, y: 34}
+        - {x: 27, y: 34}
+        - {x: 24, y: 37}
+        - {x: 19, y: 38}
+        - {x: 16, y: 40}
+        - {x: 14, y: 40}
+        - {x: 13, y: 41}
+        - {x: 11, y: 41}
+        - {x: 10, y: 42}
+        - {x: 8, y: 42}
+        - {x: 7, y: 43}
+        - {x: 5, y: 43}
+        - {x: 4, y: 44}
+        - {x: 2, y: 44}
+        - {x: 0, y: 45}
+        - {x: -17, y: 45}
+        - {x: -20, y: 44}
+        - {x: -22, y: 42}
+        - {x: -25, y: 41}
+        - {x: -28, y: 38}
+        - {x: -30, y: 34}
+        - {x: -36, y: 27}
+        - {x: -37, y: 21}
+        - {x: -38, y: 19}
+        - {x: -38, y: -9}
+        - {x: -37, y: -10}
+        - {x: -37, y: -14}
+        - {x: -36, y: -15}
+        - {x: -36, y: -19}
+        - {x: -35, y: -22}
+        - {x: -31, y: -31}
+        - {x: -25, y: -36}
+        - {x: -24, y: -36}
+        - {x: -20, y: -40}
+        - {x: -16, y: -41}
+        - {x: -13, y: -43}
+        - {x: -11, y: -43}
+        - {x: -8, y: -45}
+        - {x: 11, y: -45}
+        - {x: 16, y: -43}
+        - {x: 27, y: -31}
+        - {x: 27, y: -30}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 20e5d95b1bea2c948a753023672b16cf
+      internalID: -2668524036734685323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 24, y: -34}
+        - {x: 27, y: -32}
+        - {x: 27, y: -31}
+        - {x: 32, y: -26}
+        - {x: 32, y: -25}
+        - {x: 35, y: -22}
+        - {x: 35, y: -20}
+        - {x: 37, y: -18}
+        - {x: 37, y: -16}
+        - {x: 38, y: -15}
+        - {x: 38, y: 14}
+        - {x: 36, y: 17}
+        - {x: 36, y: 19}
+        - {x: 35, y: 20}
+        - {x: 33, y: 28}
+        - {x: 24, y: 37}
+        - {x: 23, y: 37}
+        - {x: 22, y: 39}
+        - {x: 18, y: 40}
+        - {x: 14, y: 43}
+        - {x: 12, y: 43}
+        - {x: 9, y: 45}
+        - {x: 7, y: 45}
+        - {x: 5, y: 46}
+        - {x: -15, y: 46}
+        - {x: -18, y: 45}
+        - {x: -30, y: 35}
+        - {x: -32, y: 31}
+        - {x: -37, y: 24}
+        - {x: -37, y: 20}
+        - {x: -38, y: 19}
+        - {x: -38, y: -11}
+        - {x: -37, y: -12}
+        - {x: -37, y: -16}
+        - {x: -36, y: -17}
+        - {x: -35, y: -23}
+        - {x: -32, y: -30}
+        - {x: -30, y: -31}
+        - {x: -30, y: -32}
+        - {x: -22, y: -41}
+        - {x: -19, y: -42}
+        - {x: -16, y: -42}
+        - {x: -11, y: -45}
+        - {x: -9, y: -46}
+        - {x: 10, y: -46}
+        - {x: 15, y: -44}
+        - {x: 24, y: -35}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 53339948cb684224984f24c843eafa28
+      internalID: 4216841027497160685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroid_29
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27, y: -34}
+        - {x: 30, y: -32}
+        - {x: 30, y: -31}
+        - {x: 34, y: -26}
+        - {x: 35, y: -24}
+        - {x: 37, y: -21}
+        - {x: 37, y: -18}
+        - {x: 38, y: -17}
+        - {x: 38, y: 12}
+        - {x: 37, y: 13}
+        - {x: 37, y: 16}
+        - {x: 36, y: 20}
+        - {x: 34, y: 23}
+        - {x: 34, y: 25}
+        - {x: 32, y: 28}
+        - {x: 30, y: 33}
+        - {x: 27, y: 36}
+        - {x: 23, y: 38}
+        - {x: 19, y: 42}
+        - {x: 14, y: 44}
+        - {x: 12, y: 44}
+        - {x: 7, y: 47}
+        - {x: -11, y: 47}
+        - {x: -13, y: 46}
+        - {x: -18, y: 44}
+        - {x: -30, y: 32}
+        - {x: -30, y: 31}
+        - {x: -35, y: 26}
+        - {x: -37, y: 21}
+        - {x: -38, y: 16}
+        - {x: -38, y: -13}
+        - {x: -37, y: -14}
+        - {x: -37, y: -17}
+        - {x: -36, y: -18}
+        - {x: -35, y: -24}
+        - {x: -31, y: -33}
+        - {x: -25, y: -38}
+        - {x: -24, y: -38}
+        - {x: -20, y: -42}
+        - {x: -16, y: -43}
+        - {x: -8, y: -47}
+        - {x: 11, y: -47}
+        - {x: 18, y: -44}
+        - {x: 25, y: -37}
+        - {x: 27, y: -36}
+      tessellationDetail: 1
+      bones: []
+      spriteID: acb4ad4731ce400498b6aa82a120d590
+      internalID: -8951502410129945982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
