@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class Asteroid : MonoBehaviour
 {
@@ -14,27 +16,21 @@ public class Asteroid : MonoBehaviour
 
     public GameObject asteroidPrefab;
 
+    public bool readyToCollideWithSibling = true;
+    public Asteroid sibling;
+    public Collider2D siblingCollider;
+
 
     // Start is called before the first frame update
     void Start()
     {
+        siblingCollider = gameObject.AddComponent<PolygonCollider2D>();
+        siblingCollider.isTrigger = true;
         GetComponent<Rigidbody2D>().AddForce(transform.up * speed);
         transform.localScale = new Vector3(size, size, 1);
 
     }
-
-    private void FixedUpdate()
-    {
-        Debug.Log(GetComponent<Collider2D>().isTrigger);
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        Debug.Log("exit trigger");
-        GetComponent<Collider2D>().isTrigger = false;
-        Debug.Log("not trigger");
-    }
-
+    
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag.Equals("bullet")) {
@@ -44,16 +40,37 @@ public class Asteroid : MonoBehaviour
         }
     }
 
+    private void OnTriggerExit2D(Collider2D other)
+    {
+
+        if (readyToCollideWithSibling)
+        {
+            return;
+        }
+        
+        if (sibling == null || other.GetComponent<Asteroid>() == sibling)
+        {
+            readyToCollideWithSibling = true;
+            Destroy(siblingCollider);
+            if (sibling != null)
+            {
+                Destroy(sibling.siblingCollider);
+                Physics2D.IgnoreCollision(GetComponent<Collider2D>(), sibling.GetComponent<Collider2D>(), false);
+            }
+        }
+    }
+
     void Split() {
         if (size / 2 > minSize)
         {
             float prevRot = 1000;
+            GameObject[] splitAsteroids = new GameObject[2];
             for (int i = 0; i < 2; i++)
             {
                 GameObject go = Instantiate(asteroidPrefab);
                 go.GetComponent<Asteroid>().size = size / 2;
                 go.GetComponent<Asteroid>().speed = speed;
-
+                splitAsteroids[i] = go;
 
                 //force the rotation of the 2nd object to be at least 10 degrees different to the 1st
                 float rot;
@@ -67,10 +84,12 @@ public class Asteroid : MonoBehaviour
 
                 int shapeNum = Random.Range(0, AsteroidShapeDatabase.Instance.normalSprites.Length);
                 go.GetComponent<SpriteRenderer>().sprite = AsteroidShapeDatabase.Instance.normalSprites[shapeNum];
-
-                //to avoid split asteroids sticking with eachother
-                go.GetComponent<Collider2D>().isTrigger = true;
             }
+            Physics2D.IgnoreCollision(splitAsteroids[0].GetComponent<Collider2D>(),splitAsteroids[1].GetComponent<Collider2D>());
+            //the first asteroid has the duty to re-enable collision with its sibling
+            splitAsteroids[0].GetComponent<Asteroid>().readyToCollideWithSibling = false;
+            splitAsteroids[0].GetComponent<Asteroid>().sibling = splitAsteroids[1].GetComponent<Asteroid>();
+            splitAsteroids[1].GetComponent<Asteroid>().sibling = splitAsteroids[0].GetComponent<Asteroid>();
             Destroy(gameObject);
         }
         else
